@@ -1,0 +1,160 @@
+
+cat9.png
+size: 1983,689
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 411, 110
+  size: 372, 577
+  orig: 372, 577
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 1899, 334
+  size: 105, 62
+  orig: 107, 64
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 56, 6
+  size: 44, 30
+  orig: 46, 32
+  offset: 1, 1
+  index: -1
+eye3
+  rotate: false
+  xy: 1816, 94
+  size: 103, 63
+  orig: 106, 66
+  offset: 2, 2
+  index: -1
+eye4
+  rotate: false
+  xy: 1883, 33
+  size: 94, 59
+  orig: 96, 61
+  offset: 1, 1
+  index: -1
+eye5
+  rotate: false
+  xy: 785, 111
+  size: 95, 57
+  orig: 97, 59
+  offset: 1, 1
+  index: -1
+hair
+  rotate: false
+  xy: 1459, 218
+  size: 244, 137
+  orig: 244, 137
+  offset: 0, 0
+  index: -1
+hairback
+  rotate: true
+  xy: 1137, 199
+  size: 488, 320
+  orig: 488, 320
+  offset: 0, 0
+  index: -1
+hairback copy
+  rotate: true
+  xy: 785, 170
+  size: 517, 350
+  orig: 518, 350
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 688, 29
+  size: 79, 262
+  orig: 79, 262
+  offset: 0, 0
+  index: -1
+leg1 copy
+  rotate: false
+  xy: 1705, 93
+  size: 109, 292
+  orig: 109, 292
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 1816, 159
+  size: 173, 165
+  orig: 173, 165
+  offset: 0, 0
+  index: -1
+leg2 copy
+  rotate: true
+  xy: 1484, 13
+  size: 203, 195
+  orig: 203, 195
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 1899, 441
+  size: 74, 246
+  orig: 74, 246
+  offset: 0, 0
+  index: -1
+leg3 copy
+  rotate: true
+  xy: 411, 4
+  size: 104, 275
+  orig: 104, 276
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2, 10
+  size: 52, 40
+  orig: 54, 43
+  offset: 1, 2
+  index: -1
+pant
+  rotate: false
+  xy: 952, 10
+  size: 295, 158
+  orig: 295, 178
+  offset: 0, 20
+  index: -1
+pant copy
+  rotate: false
+  xy: 2, 52
+  size: 407, 635
+  orig: 407, 635
+  offset: 0, 0
+  index: -1
+shirt
+  rotate: false
+  xy: 1249, 7
+  size: 233, 190
+  orig: 235, 192
+  offset: 1, 1
+  index: -1
+shirtback
+  rotate: true
+  xy: 1681, 2
+  size: 89, 200
+  orig: 91, 203
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 1694, 387
+  size: 203, 300
+  orig: 203, 300
+  offset: 0, 0
+  index: -1
+tail copy
+  rotate: false
+  xy: 1459, 357
+  size: 233, 330
+  orig: 233, 330
+  offset: 0, 0
+  index: -1

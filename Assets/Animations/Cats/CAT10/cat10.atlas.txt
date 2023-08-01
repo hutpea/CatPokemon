@@ -1,0 +1,181 @@
+
+cat10.png
+size: 2012,706
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14 copy 2
+  rotate: false
+  xy: 2, 92
+  size: 425, 612
+  orig: 425, 612
+  offset: 0, 0
+  index: -1
+Layer 376 copy 2
+  rotate: true
+  xy: 1796, 135
+  size: 157, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Layer 376 copy 3
+  rotate: true
+  xy: 1796, 294
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Layer 377
+  rotate: true
+  xy: 1091, 352
+  size: 352, 241
+  orig: 352, 241
+  offset: 0, 0
+  index: -1
+Layer 377 copy
+  rotate: true
+  xy: 826, 322
+  size: 382, 263
+  orig: 382, 271
+  offset: 0, 8
+  index: -1
+Layer 388 copy
+  rotate: true
+  xy: 1175, 6
+  size: 344, 155
+  orig: 344, 155
+  offset: 0, 0
+  index: -1
+Layer 390 copy 2
+  rotate: true
+  xy: 711, 8
+  size: 112, 254
+  orig: 112, 255
+  offset: 0, 0
+  index: -1
+Layer 399 copy
+  rotate: true
+  xy: 1546, 454
+  size: 250, 228
+  orig: 250, 228
+  offset: 0, 0
+  index: -1
+Layer 401 copy
+  rotate: true
+  xy: 454, 6
+  size: 114, 255
+  orig: 115, 255
+  offset: 1, 0
+  index: -1
+Layer 404
+  rotate: true
+  xy: 1776, 454
+  size: 250, 226
+  orig: 250, 226
+  offset: 0, 0
+  index: -1
+Layer 406
+  rotate: false
+  xy: 1332, 41
+  size: 240, 309
+  orig: 240, 309
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 429, 122
+  size: 395, 582
+  orig: 395, 582
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 967, 67
+  size: 75, 53
+  orig: 77, 55
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 967, 12
+  size: 75, 53
+  orig: 77, 55
+  offset: 1, 1
+  index: -1
+eye3
+  rotate: false
+  xy: 1334, 371
+  size: 81, 52
+  orig: 83, 54
+  offset: 1, 1
+  index: -1
+eye4
+  rotate: false
+  xy: 1417, 371
+  size: 81, 52
+  orig: 83, 54
+  offset: 1, 1
+  index: -1
+hairfront1
+  rotate: true
+  xy: 1574, 5
+  size: 128, 184
+  orig: 128, 184
+  offset: 0, 0
+  index: -1
+hairfront2
+  rotate: true
+  xy: 1760, 5
+  size: 128, 184
+  orig: 128, 184
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 826, 122
+  size: 220, 198
+  orig: 220, 198
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 2, 6
+  size: 84, 224
+  orig: 85, 225
+  offset: 1, 0
+  index: -1
+leg3
+  rotate: true
+  xy: 228, 8
+  size: 82, 224
+  orig: 82, 225
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: false
+  xy: 1574, 256
+  size: 220, 196
+  orig: 220, 196
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1332, 2
+  size: 57, 37
+  orig: 59, 39
+  offset: 1, 1
+  index: -1
+shirt
+  rotate: true
+  xy: 1048, 6
+  size: 314, 125
+  orig: 314, 125
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 1334, 425
+  size: 210, 279
+  orig: 210, 279
+  offset: 0, 0
+  index: -1

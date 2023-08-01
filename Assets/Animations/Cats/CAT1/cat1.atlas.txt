@@ -1,0 +1,111 @@
+
+cat1.png
+size: 852,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 4, 4
+  size: 457, 532
+  orig: 457, 532
+  offset: 0, 0
+  index: -1
+body copy
+  rotate: false
+  xy: 4, 465
+  size: 487, 562
+  orig: 487, 562
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 656, 61
+  size: 97, 107
+  orig: 97, 107
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 655, 172
+  size: 119, 113
+  orig: 119, 113
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 655, 295
+  size: 186, 86
+  orig: 186, 86
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 540, 159
+  size: 111, 322
+  orig: 111, 322
+  offset: 0, 0
+  index: -1
+hair2 copy
+  rotate: false
+  xy: 697, 675
+  size: 141, 352
+  orig: 141, 352
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 495, 485
+  size: 168, 340
+  orig: 168, 340
+  offset: 0, 0
+  index: -1
+hair3 copy
+  rotate: false
+  xy: 495, 657
+  size: 198, 370
+  orig: 198, 370
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 757, 52
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+leg1 copy
+  rotate: true
+  xy: 540, 24
+  size: 131, 112
+  orig: 131, 112
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 745, 295
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+leg2 copy
+  rotate: true
+  xy: 745, 372
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 656, 29
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+tie
+  rotate: true
+  xy: 772, 157
+  size: 134, 45
+  orig: 134, 45
+  offset: 0, 0
+  index: -1

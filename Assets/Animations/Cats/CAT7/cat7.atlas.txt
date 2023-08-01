@@ -1,0 +1,167 @@
+
+cat7.png
+size: 2031,655
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 372, 163
+  size: 338, 490
+  orig: 338, 490
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 1406, 19
+  size: 188, 71
+  orig: 190, 73
+  offset: 1, 1
+  index: -1
+eye1
+  rotate: true
+  xy: 342, 5
+  size: 119, 112
+  orig: 121, 114
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 1840, 62
+  size: 119, 112
+  orig: 121, 114
+  offset: 1, 1
+  index: -1
+eye3
+  rotate: true
+  xy: 198, 3
+  size: 121, 70
+  orig: 123, 73
+  offset: 1, 2
+  index: -1
+eye4
+  rotate: true
+  xy: 270, 3
+  size: 121, 70
+  orig: 123, 73
+  offset: 1, 2
+  index: -1
+hair1
+  rotate: false
+  xy: 1479, 49
+  size: 359, 132
+  orig: 359, 132
+  offset: 0, 0
+  index: -1
+hairback1
+  rotate: true
+  xy: 1252, 209
+  size: 444, 205
+  orig: 444, 205
+  offset: 0, 0
+  index: -1
+hairback2
+  rotate: true
+  xy: 1459, 218
+  size: 435, 216
+  orig: 435, 216
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 866, 4
+  size: 117, 173
+  orig: 118, 175
+  offset: 0, 1
+  index: -1
+hand2
+  rotate: false
+  xy: 985, 4
+  size: 117, 173
+  orig: 133, 175
+  offset: 16, 1
+  index: -1
+leg1
+  rotate: true
+  xy: 1104, 22
+  size: 164, 92
+  orig: 164, 92
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 1198, 22
+  size: 164, 87
+  orig: 164, 87
+  offset: 0, 0
+  index: -1
+line1
+  rotate: true
+  xy: 712, 179
+  size: 474, 290
+  orig: 474, 290
+  offset: 0, 0
+  index: -1
+line2
+  rotate: true
+  xy: 1004, 188
+  size: 465, 246
+  orig: 465, 246
+  offset: 0, 0
+  index: -1
+line3
+  rotate: false
+  xy: 2, 2
+  size: 194, 122
+  orig: 194, 122
+  offset: 0, 0
+  index: -1
+line4
+  rotate: true
+  xy: 1287, 13
+  size: 194, 117
+  orig: 194, 117
+  offset: 0, 0
+  index: -1
+line5
+  rotate: false
+  xy: 2, 126
+  size: 368, 527
+  orig: 368, 527
+  offset: 0, 0
+  index: -1
+line6
+  rotate: true
+  xy: 456, 13
+  size: 148, 203
+  orig: 148, 205
+  offset: 0, 1
+  index: -1
+line7
+  rotate: true
+  xy: 661, 14
+  size: 147, 203
+  orig: 163, 205
+  offset: 16, 1
+  index: -1
+line8
+  rotate: false
+  xy: 1677, 404
+  size: 352, 249
+  orig: 352, 249
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 372, 133
+  size: 46, 28
+  orig: 48, 30
+  offset: 1, 1
+  index: -1
+shirt
+  rotate: false
+  xy: 1677, 183
+  size: 322, 219
+  orig: 322, 219
+  offset: 0, 0
+  index: -1

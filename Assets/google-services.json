@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827388347215",
+    "project_id": "connect-cat-classic",
+    "storage_bucket": "connect-cat-classic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827388347215:android:4a6e221b515ced5106fb3a",
+        "android_client_info": {
+          "package_name": "com.gplay.connect.cat.classic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827388347215-1u9bs4ib74qgn6k8mb15qu9b5ffsg11o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAffCG2XYH5WmWq34q7n_ecoUCMGShlc4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827388347215-1u9bs4ib74qgn6k8mb15qu9b5ffsg11o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
