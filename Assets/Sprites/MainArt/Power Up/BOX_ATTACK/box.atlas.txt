@@ -1,0 +1,118 @@
+
+box.png
+size: 505,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mảnh hộp/1
+  rotate: true
+  xy: 272, 4
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Mảnh hộp/2
+  rotate: false
+  xy: 460, 75
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Mảnh hộp/3
+  rotate: true
+  xy: 335, 48
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+Mảnh hộp/4
+  rotate: true
+  xy: 482, 64
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 356, 5
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 335, 72
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+boxopen1
+  rotate: false
+  xy: 298, 10
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+boxopen2
+  rotate: false
+  xy: 112, 4
+  size: 81, 21
+  orig: 81, 21
+  offset: 0, 0
+  index: -1
+boxopen3
+  rotate: true
+  xy: 112, 29
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1
+boxopen4
+  rotate: true
+  xy: 460, 92
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+boxopen5
+  rotate: false
+  xy: 197, 5
+  size: 71, 20
+  orig: 71, 20
+  offset: 0, 0
+  index: -1
+boxunopen
+  rotate: true
+  xy: 200, 32
+  size: 106, 83
+  orig: 106, 83
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 421, 7
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+lightboxopen
+  rotate: true
+  xy: 4, 13
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+lightdot
+  rotate: true
+  xy: 287, 48
+  size: 90, 44
+  orig: 90, 44
+  offset: 0, 0
+  index: -1
+paw
+  rotate: true
+  xy: 397, 73
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1

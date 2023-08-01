@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 1038,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cage1/cage
+  rotate: false
+  xy: 4, 132
+  size: 138, 147
+  orig: 138, 147
+  offset: 0, 0
+  index: -1
+Cage1/chain1
+  rotate: true
+  xy: 4, 4
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+Cage1/chain2
+  rotate: false
+  xy: 572, 139
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+Cage1/lock
+  rotate: false
+  xy: 914, 74
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+Cage2/cage
+  rotate: false
+  xy: 146, 132
+  size: 138, 147
+  orig: 138, 147
+  offset: 0, 0
+  index: -1
+Cage2/chain1
+  rotate: true
+  xy: 148, 4
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+Cage2/chain2
+  rotate: false
+  xy: 700, 139
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+Cage2/lock
+  rotate: false
+  xy: 914, 9
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+Cage3/cage
+  rotate: false
+  xy: 288, 132
+  size: 138, 147
+  orig: 138, 147
+  offset: 0, 0
+  index: -1
+Cage3/chain1
+  rotate: true
+  xy: 292, 4
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+Cage3/chain2
+  rotate: false
+  xy: 828, 139
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+Cage3/lock
+  rotate: false
+  xy: 976, 103
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+Cage4/cage
+  rotate: false
+  xy: 430, 132
+  size: 138, 147
+  orig: 138, 147
+  offset: 0, 0
+  index: -1
+Cage4/chain1
+  rotate: true
+  xy: 436, 4
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+Cage4/chain2
+  rotate: true
+  xy: 580, 11
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+Cage4/lock
+  rotate: false
+  xy: 976, 38
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+chainstroke
+  rotate: true
+  xy: 724, 9
+  size: 126, 138
+  orig: 126, 138
+  offset: 0, 0
+  index: -1
+sisc1
+  rotate: true
+  xy: 866, 11
+  size: 124, 44
+  orig: 124, 44
+  offset: 0, 0
+  index: -1
+sisc2
+  rotate: false
+  xy: 956, 168
+  size: 78, 111
+  orig: 78, 111
+  offset: 0, 0
+  index: -1
